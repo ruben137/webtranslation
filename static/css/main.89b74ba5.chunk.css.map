@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,SACE,yBACF","file":"main.89b74ba5.chunk.css","sourcesContent":[".columna {\n  height: calc(100vh - 57px);\n}\n"]}

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ruben137/webtranslation/static/css/main.89b74ba5.chunk.css",
+    "main.js": "/ruben137/webtranslation/static/js/main.8e403e29.chunk.js",
+    "main.js.map": "/ruben137/webtranslation/static/js/main.8e403e29.chunk.js.map",
+    "runtime-main.js": "/ruben137/webtranslation/static/js/runtime-main.42e1d436.js",
+    "runtime-main.js.map": "/ruben137/webtranslation/static/js/runtime-main.42e1d436.js.map",
+    "static/js/2.2f051943.chunk.js": "/ruben137/webtranslation/static/js/2.2f051943.chunk.js",
+    "static/js/2.2f051943.chunk.js.map": "/ruben137/webtranslation/static/js/2.2f051943.chunk.js.map",
+    "index.html": "/ruben137/webtranslation/index.html",
+    "static/css/main.89b74ba5.chunk.css.map": "/ruben137/webtranslation/static/css/main.89b74ba5.chunk.css.map",
+    "static/js/2.2f051943.chunk.js.LICENSE.txt": "/ruben137/webtranslation/static/js/2.2f051943.chunk.js.LICENSE.txt",
+    "static/media/translation.7422475c.png": "/ruben137/webtranslation/static/media/translation.7422475c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e1d436.js",
+    "static/js/2.2f051943.chunk.js",
+    "static/css/main.89b74ba5.chunk.css",
+    "static/js/main.8e403e29.chunk.js"
+  ]
+}
