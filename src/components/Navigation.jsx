@@ -3,7 +3,7 @@ import TranslationContext from "../contexts/Translation/TranslationContext";
 
 const Navigation = () => {
   const translationContext = useContext(TranslationContext);
-  const { language, setLanguage,getLanguage} = translationContext;
+  const { language, setLanguage, getLanguage } = translationContext;
 
   useEffect(() => {
     getLanguage();

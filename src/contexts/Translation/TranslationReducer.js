@@ -1,4 +1,4 @@
-import { GET_LANGUAGE, SET_LANGUAGE, DEFAULT_LANGUAGE } from "../types";
+import { GET_LANGUAGE, SET_LANGUAGE} from "../types";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default (state, action) => {

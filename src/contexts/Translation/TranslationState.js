@@ -1,5 +1,5 @@
 import React, { useReducer } from "react";
-import { GET_LANGUAGE, SET_LANGUAGE} from "../types";
+import { GET_LANGUAGE, SET_LANGUAGE } from "../types";
 import TranslationContext from "./TranslationContext";
 import TranslationReducer from "./TranslationReducer";
 
@@ -13,7 +13,7 @@ const TranslationState = (props) => {
   const getLanguage = () => {
     try {
       const language = JSON.parse(localStorage.getItem("language"));
-      dispatch({ type: GET_LANGUAGE, payload: language?language:'English' });
+      dispatch({ type: GET_LANGUAGE, payload: language ? language : 'English' });
 
     } catch (error) {
       console.log(error);
